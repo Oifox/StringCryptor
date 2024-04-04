@@ -18,7 +18,7 @@
 ## **Macros:**
 - The encrypt and encrypt_once macros are provided for convenient string encryption. They allow you to use string encryption and enable/disable caching.
 
-## **Using example:**
+# **Using example:**
 ```cpp
 #include <cstdio>
 #include <Cryptor.h>
