@@ -1,7 +1,7 @@
 #include <array>
 #include <algorithm>
 
-namespace Encryption {
+namespace Encryption { // Created by Norka :D
     #ifdef __GNUC__ 
         #define NO_COMPILE __attribute__((always_inline)) inline 
     #else 
