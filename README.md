@@ -27,7 +27,7 @@ int main() {
   return 0;
 }
 ```
-## [IDA Pro 7.0 output](Output.cpp)
-
+## [IDA Pro 7.0 output (Click)](Output.cpp)
+## 
 > [!WARNING]
 > This code demonstrates an example implementation of a simple encryption system that caches encrypted data to improve performance. This encryption system does not provide a high level of security and is intended rather for educational or demonstration purposes.
